@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371759169044",
+    "project_id": "vitabroc-83766",
+    "storage_bucket": "vitabroc-83766.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371759169044:android:0815e13009427c8acc7101",
+        "android_client_info": {
+          "package_name": "com.example.vitabroc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaf48gmyI0vuxHyvm1DoyhBI-Tc_KSX2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
